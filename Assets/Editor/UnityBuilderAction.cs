@@ -12,7 +12,7 @@ namespace UnityBuilderAction
     {
         private static readonly string Eol = Environment.NewLine;
         private static string APP_NAME = "Domino Happy Simulator";
-        private static string COMPANY_NAME = "1687447860859206229132";
+        private static string COMPANY_NAME = "1687449063845130893753";
         private static string BUILD_VERSION_NAME = "1.0.0";
         private static string PACKAGENAME = "com.domino.happy.higgs.simulator";
         private static string PATH_KEYSTORE = "data.keystore";
